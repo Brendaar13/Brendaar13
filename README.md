@@ -8,7 +8,7 @@
 -----
 
 # 💫 About Me:
-Soy Brenda Rojas, una programadora joven con una pasión desbordante por la tecnología y el desarrollo de software, siempre estoy buscando oportunidades para expandir mis conocimientos y enfrentar nuevos retos.<br><br>💻 Experiencia en diversos proyectos.<br>👩‍💻 Habilidades en múltiples lenguajes, listas para cualquier tarea.<br>🤝 Soy entusiasta y tengo mucha adaptabilidad.<br>🚀 Ambición para crecer y enfrentar desafíos con entusiasmo.<br>🌐 Mentalidad global y versatilidad.<br>🌟 Naturaleza sociable y abierta al networking
+A young programmer with an overflowing passion for technology and software development, I'm always looking for opportunities to expand my knowledge and face new challenges.<br><br>💻 Experiencia en diversos proyectos.<br>👩‍💻 Multi-language skills, both in programming languages and in four languages such as Spanish, English, French and German. Ready for any task.<br>🌱 I’m currently learning web3.<br>🤝 I am enthusiastic and adaptable.<br>🚀 Ambition to grow and face challenges with enthusiasm.<br>🌐 Global mindset and versatility.<br>🌟 Sociable nature and openness to networking
 
 
 ## 🌐 Socials:
