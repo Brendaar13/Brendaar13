@@ -8,7 +8,7 @@
 -----
 
 # 💫 About Me:
-A young programmer with an overflowing passion for technology and software development, I'm always looking for opportunities to expand my knowledge and face new challenges.<br><br>💻 Experiencia en diversos proyectos.<br>👩‍💻 Multi-language skills, both in programming languages and in four languages such as Spanish, English, French and German. Ready for any task.<br>🌱 I’m currently learning web3.<br>🤝 I am enthusiastic and adaptable.<br>🚀 Ambition to grow and face challenges with enthusiasm.<br>🌐 Global mindset and versatility.<br>🌟 Sociable nature and openness to networking
+A young programmer with an overflowing passion for technology and software development, I'm always looking for opportunities to expand my knowledge and face new challenges.<br><br>💻 Experience in diverse projects and tools.<br>👩‍💻 Multi-language skills, both in programming languages and in four languages such as Spanish, English, French and German. Ready for any task.<br>🌱 I’m currently learning web3.<br>🤝 I am enthusiastic and adaptable.<br>🚀 Ambition to grow and face challenges with enthusiasm.<br>🌐 Global mindset and versatility.<br>🌟 Sociable nature and openness to networking
 
 
 ## 🌐 Socials:
